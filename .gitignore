@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+.venv/
+.env
+
+# IDE settings
+*.idea/
+*.vscode/
+
+# Docker files
+*.dockerignore
+Dockerfile
+
+# Logs
+*.log
+
+# Miscellaneous
+*.pot
+*.
+
+requirements.txt 
